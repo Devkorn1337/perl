@@ -1,2 +1,2 @@
 # perl
-perl udp.pl <ip> <port> <time>
+perl udp.pl ip port time
